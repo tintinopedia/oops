@@ -4,6 +4,7 @@
 //Each costs Rs. 1.5.
 
 #include <stdio.h>
+
 int main()
 {
     int qty_of_items = 10;
@@ -17,12 +18,15 @@ int main()
 
     return 0;
 }
+*/
 
+/*
 //Write a program to show your age using a variable.
 //Example output:
 //I am 9 years old
 
 #include<stdio.h>
+
 int main()
 {
     int age = 9;
@@ -31,12 +35,15 @@ int main()
 
     return 0;
 }
+*/
 
+/*
 //Write a program to store your height in a float variable and print it.
 //Example output:
 //My height is 4.5
 
 #include<stdio.h>
+
 int main()
 {
     float height = 4.5;
@@ -45,13 +52,16 @@ int main()
 
     return 0;
 }
+*/
 
+/*
 //Write a program to store number of apples = 5 and price = 2.5, then print both.
 //Example output:
 //Apples = 5
 //Price = 2.5
 
 #include <stdio.h>
+
 int main()
 {
     int qty = 5;
@@ -62,5 +72,4 @@ int main()
 
     return 0;
 }
-
 */
